@@ -22,6 +22,10 @@
 ئعلن تطبيق.صيير ():
 	مقطع[] مقطعين = [
 		{
+			ئسم: 'انطرديمن.png'،
+			رابط: 'https://streamable.com/e/ey009e'
+		}،
+		{
 			ئسم: 'سليمى.png'،
 			رابط: 'https://streamable.com/e/g5m2ed'
 		}،
